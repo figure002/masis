@@ -11,7 +11,7 @@ All rights reserved.
 
 License to be determined.
 
-# Disclaimer
+## Disclaimer
 
 MaSIS was written in PHP, JavaScript and HTML and depends on third party code
 and libraries. Third party code bundled with MaSIS are property of their
@@ -44,21 +44,21 @@ individual authors and are governed by their individual applicable license.
 * Underscore.js (<http://underscorejs.org/>) is used to complement jQuery.
   License: MIT license
 
-# Credits
+## Credits
 
 We would like to recognize the following names for their contribution to the
 product.
 
-## Project managers
+### Project managers
 
 * Gregory Booma
 * Judith Pederson
 
-## Developers
+### Developers
 
 * Serrano Pereira
 
-## Testing and suggestions
+### Testing and suggestions
 
 * Benjamin Bray
 * Joseph Futrelle
