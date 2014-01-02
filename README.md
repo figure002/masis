@@ -14,7 +14,7 @@ MaSIS is free software. See the file COPYING for copying conditions.
 Please also note the copyright and permissions notices of the third party
 codes used (see Disclaimer section).
 
-# Disclaimer
+## Disclaimer
 
 MaSIS was written in PHP, JavaScript and HTML and depends on third party code
 and libraries. Third party code bundled with MaSIS are property of their
@@ -47,17 +47,18 @@ individual authors and are governed by their individual applicable license.
 * Underscore.js (<http://underscorejs.org/>) is used to complement jQuery.
   License: MIT license
 
-# Credits
+## Credits
 
 We would like to recognize the following names for their contribution to the
 product:
 
-## Project managers
+### Project managers
+
 Gregory Booma: Technical lead
 
 Judith Pederson: Scientific oversight
 
-## Developers
+### Developers
 
 **Original Development (2012)**
 
@@ -69,7 +70,7 @@ Gregory Booma: Systems design and administration
 
 Gregory Booma: All aspects
 
-## Testing and suggestions
+### Testing and suggestions
 
 **MIT**
 
@@ -84,3 +85,4 @@ Joseph Futrelle
 Amber York
 
 Scott Gallagher
+
