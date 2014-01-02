@@ -6,10 +6,13 @@ species captured on photographs.
 
 ## Copyright
 
-Copyright (c) 2012, Massachusetts Institute of Technology
+Copyright (c) 2013, Massachusetts Institute of Technology
 All rights reserved.
 
-License to be determined.
+MaSIS is free software. See the file COPYING for copying conditions.
+
+Please also note the copyright and permissions notices of the third party
+codes used (see Disclaimer section).
 
 # Disclaimer
 
